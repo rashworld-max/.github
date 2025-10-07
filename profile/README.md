@@ -2,7 +2,7 @@
 
 [Cash Code Blog](https://code.cash.app/)
 
-[Cash AI Blog](http://ai.cash.app)
+[Cash AI Blog](https://ai.cash.app)
 
 [Cash App Careers](https://cash.app/careers/)
 
